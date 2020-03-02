@@ -38,7 +38,7 @@ in your hand, your current coordinates and direction will be displayed above you
 action bar. Now you can view coordinates in a "Vanilla" fashion, without resorting
 to clunky debug screens!
 
-![GPS Compass Screenshot](https://imgur.com/gallery/81FsUgd)
+![GPS Compass Screenshot]https://i.imgur.com/81FsUgd.png)
 
 This data pack was inspired by [JayList's HUD](https://www.planetminecraft.com/data-pack/jaylist-s-huds/) data pack.
 
