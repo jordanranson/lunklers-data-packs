@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:coal"
+    },
+    "result": "minecraft:iron_ingot",
+    "experience": 0.2,
+    "cookingtime": 200
+}

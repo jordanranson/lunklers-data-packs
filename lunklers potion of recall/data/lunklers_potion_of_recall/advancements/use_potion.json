@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "Use Potion": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:potion",
+                    "potion": "empty",
+                    "nbt": "{recall:1b}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "lunklers_potion_of_recall:use_potion"
+    }
+}

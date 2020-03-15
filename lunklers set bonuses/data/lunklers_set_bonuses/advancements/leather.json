@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "Set Bonus": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "source_entity": {
+            "equipment": {
+              "head": {
+                "item": "minecraft:leather_helmet"
+              },
+              "chest": {
+                "item": "minecraft:leather_chestplate"
+              },
+              "legs": {
+                "item": "minecraft:leather_leggings"
+              },
+              "feet": {
+                "item": "minecraft:leather_boots"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "lunklers_set_bonuses:leather"
+  }
+}
