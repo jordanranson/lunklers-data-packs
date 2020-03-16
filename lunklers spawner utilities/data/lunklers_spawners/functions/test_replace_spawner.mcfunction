@@ -1,0 +1,1 @@
+execute as @s[nbt={Item:{tag:{SkullOwner:{Id:"7cb6e9a5-994f-40d5-9bfc-4ba5d796d21e",Name:"Iron Golem",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkwOTFkNzllYTBmNTllZjdlZjk0ZDdiYmE2ZTVmMTdmMmY3ZDQ1NzJjNDRmOTBmNzZjNDgxOWE3MTQifX19"}]}}}}}] at @s run function lunklers_spawners:set_iron_golem
