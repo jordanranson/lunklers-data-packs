@@ -12,8 +12,8 @@ enhancing the game in a way that's consistent with the Vanilla experience.
 
 ### How do I use them?
 
-1. Download the zip files from the (release section)[https://github.com/jordanranson/lunklers-data-packs/releases] on GitHub.
-2. Find your (Minecraft directory)[https://minecraft.gamepedia.com/.minecraft]
+1. Download the zip files from the [release section](https://github.com/jordanranson/lunklers-data-packs/releases) on GitHub.
+2. Find your [Minecraft directory](https://minecraft.gamepedia.com/.minecraft)
 3. Put the zipped file in `saves/<your world>/datapacks`
 4. Check to see if the data pack is loaded in game by typing `/datapacks list`
 
@@ -38,7 +38,9 @@ in your hand, your current coordinates and direction will be displayed above you
 action bar. Now you can view coordinates in a "Vanilla" fashion, without resorting
 to clunky debug screens!
 
-This data pack was inspired by (JayList's HUD)[https://www.planetminecraft.com/data-pack/jaylist-s-huds/] data pack.
+![GPS Compass Screenshot](https://i.imgur.com/81FsUgd.png)
+
+This data pack was inspired by [JayList's HUD](https://www.planetminecraft.com/data-pack/jaylist-s-huds/) data pack.
 
 
 ## Lunkler's Recipes
